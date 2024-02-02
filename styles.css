@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    background-color: azure;
+    padding: 64px;
+}
+
+.main-container {
+    width: 1308px;
+}
+
+.header-container {
+    width: 694px;
+}
+
+.header-1 {
+    font-size: 72px;
+    font-family: Lato bold;
+}
